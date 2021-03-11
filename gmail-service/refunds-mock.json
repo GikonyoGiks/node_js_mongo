@@ -1,0 +1,414 @@
+[
+    {
+        "date": "2021-03-17T23:20:41.000Z",
+        "subject": "Fwd: Your refund for IXS Unisex Flow Evo+ Breathable....",
+        "amount": {
+            "text": "$104.53",
+            "number": "104.53"
+        },
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-03-17T23:20:29.000Z",
+        "subject": "Fwd: Your return of IXS Unisex Flow Evo+ Breathable...",
+        "amount": {
+            "text": "$104.53",
+            "number": "104.53"
+        },
+        "status": "started",
+        "merchant": "Amazon"
+    },
+    {
+        "date": "2021-03-17T23:19:15.000Z",
+        "subject": "Fwd: Your refund for 3x MYSKY HOME Blackout Curtain for....",
+        "amount": {
+            "text": "$48.03",
+            "number": "48.03"
+        },
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-03-15T23:38:56.000Z",
+        "subject": "Your refund for 3x MYSKY HOME Blackout Curtain for....",
+        "amount": {
+            "text": "$48.03",
+            "number": "48.03"
+        },
+        "productName": "3 x MYSKY HOME Blackout Curtain for...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-03-15T20:18:23.000Z",
+        "subject": "Your refund for Moon and Back by Hanna Andersson....",
+        "amount": {
+            "text": "$29.42",
+            "number": "29.42"
+        },
+        "productName": "Moon and Back by Hanna Andersson...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-03-09T17:50:14.000Z",
+        "subject": "Your return of 3xMYSKY HOME Blackout Curtain for...",
+        "amount": {
+            "text": "$58.83",
+            "number": "58.83"
+        },
+        "productName": "3 x MYSKY HOME Blackout Curtain for...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-5280121-8381050&ref_=E_RRT_status"
+    },
+    {
+        "date": "2021-03-09T17:37:38.000Z",
+        "subject": "Your return of Moon and Back by Hanna Andersson...",
+        "amount": {
+            "text": "$29.42",
+            "number": "29.42"
+        },
+        "productName": "Moon and Back by Hanna Andersson...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-0947679-7589059&ref_=E_RRT_status"
+    },
+    {
+        "date": "2021-03-02T00:56:02.000Z",
+        "subject": "Your refund for 20 Pack 6\"x6\"x3\" Brown Bakery....",
+        "amount": {
+            "text": "$11.98",
+            "number": "11.98"
+        },
+        "productName": "20 Pack 6\"x6\"x3\" Brown Bakery...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-03-01T22:59:38.000Z",
+        "subject": "Your refund for Rubie's DC Comics Superman....",
+        "amount": {
+            "text": "$29.35",
+            "number": "29.35"
+        },
+        "productName": "Rubie's DC Comics Superman...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-03-01T17:02:32.000Z",
+        "subject": "Your return of Rubie's DC Comics Superman... and 1 other item.",
+        "amount": {
+            "text": "$41.33",
+            "number": "41.33"
+        },
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/gp/css/order-history/?ref_=E_YourOrder_Page"
+    },
+    {
+        "date": "2021-02-24T04:59:58.000Z",
+        "subject": "Your refund for GRECERELLE Women's Casual Loose....",
+        "amount": {
+            "text": "$31.60",
+            "number": "31.60"
+        },
+        "productName": "GRECERELLE Women's Casual Loose...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-02-24T03:22:10.000Z",
+        "subject": "Your refund for Lveberw Long Nightgown....",
+        "amount": {
+            "text": "$21.78",
+            "number": "21.78"
+        },
+        "productName": "Lveberw Long Nightgown...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-02-24T02:26:28.000Z",
+        "subject": "Your refund for LEGO DC Batman: Batman vs The....",
+        "amount": {
+            "text": "$42.20",
+            "number": "42.20"
+        },
+        "productName": "LEGO DC Batman: Batman vs The...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-02-24T02:24:55.000Z",
+        "subject": "Your refund for GRECERELLE Women's Casual Loose....",
+        "amount": {
+            "text": "$31.60",
+            "number": "31.60"
+        },
+        "productName": "GRECERELLE Women's Casual Loose...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-02-24T01:29:15.000Z",
+        "subject": "Your refund for Rajlinen Muslin Swaddle Blankets....",
+        "amount": {
+            "text": "$21.79",
+            "number": "21.79"
+        },
+        "productName": "Rajlinen Muslin Swaddle Blankets...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-02-24T01:28:58.000Z",
+        "subject": "Your refund for Ekouaer Short Sleeve V-Neck Soft....",
+        "amount": {
+            "text": "$22.23",
+            "number": "22.23"
+        },
+        "productName": "Ekouaer Short Sleeve V-Neck Soft...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-02-23T23:32:47.000Z",
+        "subject": "Your refund for Boon Lawn Countertop Drying....",
+        "amount": {
+            "text": "$21.79",
+            "number": "21.79"
+        },
+        "productName": "Boon Lawn Countertop Drying...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-02-17T23:18:39.000Z",
+        "subject": "Your return of Boon Lawn Countertop Drying...",
+        "amount": {
+            "text": "$21.79",
+            "number": "21.79"
+        },
+        "productName": "Boon Lawn Countertop Drying...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-1433525-6068264&ref_=E_RRT_status"
+    },
+    {
+        "date": "2021-02-15T23:05:29.000Z",
+        "subject": "Your return of GRECERELLE Women's Casual Loose... and 3 other items.",
+        "amount": {
+            "text": "$107.21",
+            "number": "107.21"
+        },
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/gp/css/order-history/?ref_=E_YourOrder_Page"
+    },
+    {
+        "date": "2021-02-15T15:13:03.000Z",
+        "subject": "Your return of LEGO DC Batman: Batman vs The...",
+        "amount": {
+            "text": "$42.20",
+            "number": "42.20"
+        },
+        "productName": "LEGO DC Batman: Batman vs The...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-5257618-3973858&ref_=E_RRT_status"
+    },
+    {
+        "date": "2021-02-09T19:53:03.000Z",
+        "subject": "Your refund for IXS Unisex Flow Evo+ Breathable....",
+        "amount": {
+            "text": "$104.53",
+            "number": "104.53"
+        },
+        "productName": "IXS Unisex Flow Evo+ Breathable...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-02-07T16:02:40.000Z",
+        "subject": "Your return of Rajlinen Muslin Swaddle Blankets...",
+        "amount": {
+            "text": "$21.79",
+            "number": "21.79"
+        },
+        "productName": "Rajlinen Muslin Swaddle Blankets...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-0060685-2210614&ref_=E_RRT_status"
+    },
+    {
+        "date": "2021-02-06T23:21:04.000Z",
+        "subject": "Your return of IXS Unisex Flow Evo+ Breathable...",
+        "amount": {
+            "text": "$104.53",
+            "number": "104.53"
+        },
+        "productName": "IXS Unisex Flow Evo+ Breathable...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=112-8327118-8669008&ref_=E_RRT_status"
+    },
+    {
+        "date": "2021-01-27T05:06:26.000Z",
+        "subject": "Your refund for Maternity Swimsuits One Piece....",
+        "amount": {
+            "text": "$32.69",
+            "number": "32.69"
+        },
+        "productName": "Maternity Swimsuits One Piece...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-01-27T04:51:32.000Z",
+        "subject": "Your refund for Ekouaer Womens Swimsuit Coverups....",
+        "amount": {
+            "text": "$27.24",
+            "number": "27.24"
+        },
+        "productName": "Ekouaer Womens Swimsuit Coverups...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-01-27T03:28:54.000Z",
+        "subject": "Your refund for Women's Maternity Striped Side....",
+        "amount": {
+            "text": "$29.42",
+            "number": "29.42"
+        },
+        "productName": "Women's Maternity Striped Side...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2021-01-17T03:23:04.000Z",
+        "subject": "Your return of Women's Maternity Striped Side...",
+        "amount": {
+            "text": "$29.42",
+            "number": "29.42"
+        },
+        "productName": "Women's Maternity Striped Side...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-2588301-3849053&ref_=E_RRT_status"
+    },
+    {
+        "date": "2020-12-30T03:40:05.000Z",
+        "subject": "Your return of Ekouaer Womens Swimsuit Coverups...",
+        "amount": {
+            "text": "$27.24",
+            "number": "27.24"
+        },
+        "productName": "Ekouaer Womens Swimsuit Coverups...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-0381219-3817860&ref_=E_RRT_status"
+    },
+    {
+        "date": "2020-12-30T03:39:15.000Z",
+        "subject": "Your return of Maternity Swimsuits One Piece...",
+        "amount": {
+            "text": "$32.69",
+            "number": "32.69"
+        },
+        "productName": "Maternity Swimsuits One Piece...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-0381219-3817860&ref_=E_RRT_status"
+    },
+    {
+        "date": "2020-12-20T00:49:24.000Z",
+        "subject": "Your refund for Cookie Scoop Set 3 PCS Stainless....",
+        "amount": {
+            "text": "$16.34",
+            "number": "16.34"
+        },
+        "productName": "Cookie Scoop Set 3 PCS Stainless...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2020-12-20T00:13:50.000Z",
+        "subject": "Your refund for COFACE Womens Sliders Plush....",
+        "amount": {
+            "text": "$19.61",
+            "number": "19.61"
+        },
+        "productName": "COFACE Womens Sliders Plush...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2020-12-19T23:07:24.000Z",
+        "subject": "Your refund for LeapFrog LeapStart Trolls Solve....",
+        "amount": {
+            "text": "$14.18",
+            "number": "14.18"
+        },
+        "productName": "LeapFrog LeapStart Trolls Solve...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2020-12-19T20:41:43.000Z",
+        "subject": "Your return of LeapFrog LeapStart Trolls Solve...",
+        "amount": {
+            "text": "$14.18",
+            "number": "14.18"
+        },
+        "productName": "LeapFrog LeapStart Trolls Solve...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-4143282-3054638&ref_=E_RRT_status"
+    },
+    {
+        "date": "2020-12-14T12:03:29.000Z",
+        "subject": "Your return of Cookie Scoop Set 3 PCS Stainless...",
+        "amount": {
+            "text": "$16.34",
+            "number": "16.34"
+        },
+        "productName": "Cookie Scoop Set 3 PCS Stainless...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-9368307-6745064&ref_=E_RRT_status"
+    },
+    {
+        "date": "2020-12-03T05:10:06.000Z",
+        "subject": "Your return of COFACE Womens Sliders Plush...",
+        "amount": {
+            "text": "$19.61",
+            "number": "19.61"
+        },
+        "productName": "COFACE Womens Sliders Plush...",
+        "status": "started",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-7211170-3902649&ref_=E_RRT_status"
+    },
+    {
+        "date": "2020-10-25T19:30:14.000Z",
+        "subject": "Your refund for Hepix iPhone 11 Pro Flamingo....",
+        "amount": {
+            "text": "$10.89",
+            "number": "10.89"
+        },
+        "productName": "Hepix iPhone 11 Pro Flamingo...",
+        "merchant": "Amazon",
+        "satus": "completed"
+    },
+    {
+        "date": "2020-10-24T17:12:08.000Z",
+        "subject": "Your return drop off confirmation for Hepix iPhone 11 Pro Flamingo....",
+        "productName": "Hepix iPhone 11 Pro Flamingo...",
+        "merchant": "Amazon",
+        "link": "https://www.amazon.com/spr/returns/cart?orderId=111-2012416-8093864&ref_=E_ReturnDropOffReceived_RRT_status"
+    }
+]

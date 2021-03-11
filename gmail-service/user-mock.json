@@ -1,0 +1,15 @@
+{
+    "_id": {
+        "$oid": "6052923ad387b31483953916"
+    },
+    "oauthID": 103036636204957780000,
+    "name": "Ben Nagar",
+    "email": "super.nagar@gmail.com",
+    "picture": "https://lh3.googleusercontent.com/a-/AOh14GjMEMJ6xao2pMbqMfUo8d_I92omZxHxVC-oku_HGw=s96-c",
+    "created": {
+        "$date": "2021-03-17T23:35:22.732Z"
+    },
+    "accessToken": "ya29.a0AfH6SMAIv-WksNNWaYNv_WJRsusvFqQwgk0PPHpCocOqIfOJxBFcsDiGaF9A4c6SVnf4AeXpkuo8i4qvPQfWEZzJQSuS1-17zKrk_Q4vfSUSeflzq4HAEiQcC5yHEflPpOwOn9t6dBV1_VA_qVYNnvFm3kUJzA",
+    "__v": 0,
+    "refreshToken": "1//06SX2e9H1LTVWCgYIARAAGAYSNwF-L9IrErd1mnWRg6TPC-NS__W4_3-KYNqWBlhOpaUwiJaowxSB5STePLbQiLfxahiJkVXJZrM"
+}

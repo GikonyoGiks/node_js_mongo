@@ -1,0 +1,38 @@
+version: "3.7"
+
+services: 
+  login:
+    build: ./login-service
+    image: nodejs
+    container_name: nodejs-login
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    networks:
+      - app-network
+    depends_on:
+        - db
+  gmail:
+    build: ./gmail-service
+    image: nodejs-gmail
+    container_name: nodejs-gmail
+    restart: unless-stopped
+    networks:
+      - app-network
+    depends_on:
+        - db
+
+  # docker run -it -d --rm -p 27017:27017 --name mongodb -v ~/fred/local_mongo/data/db:/data/db mongo
+  db:
+    image: mongo:4.4.4
+    container_name: db
+    volumes:
+      - ../local_mongo/data/db:/data/db
+      - ../local_mongo/mongo-config:/data/configdb
+    ports:
+      - 27017:27017
+    command: mongod
+
+networks:
+  app-network:
+    driver: bridge
