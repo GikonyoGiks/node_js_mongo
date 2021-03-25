@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui" />
+</head>
+
+<body>
+  <div id="app">
+    <v-app>
+      <v-app-bar app>
+        <v-toolbar-title class="mr-10">Fred</v-toolbar-title>
+        <v-btn text> Dashboard </v-btn>
+        <v-spacer></v-spacer>
+        <v-btn text> Accounts </v-btn>
+        <v-avatar class="mr-10" color="grey darken-1" size="32"></v-avatar>
+      </v-app-bar>
+
+      <v-main>
+        <v-data-table :headers="headers" :items="refunds" multi-sort class="elevation-1 ma-10">
+          <template v-slot:item.link="{ item }">
+            <v-btn icon v-show="item.link" :href="item.link">
+              <v-icon color="info"> mdi-open-in-new </v-icon>
+            </v-btn>
+          </template>
+          <template v-slot:item.date="{ item }">
+            {{(new Date(item.date)).toLocaleDateString()}}
+          </template>
+        </v-data-table>
+      </v-main>
+    </v-app>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+  <script>
+    new Vue({
+      el: "#app",
+      vuetify: new Vuetify(),
+      data: {
+        headers: [
+          {
+            text: 'date',
+            align: 'start',
+            value: 'date'
+          },
+          { text: 'Amount ($)', value: 'amount.number' },
+          { text: 'Status', value: 'status' },
+          { text: 'link', value: 'link' }
+        ],
+        refunds: [
+          {
+            date: "2021-03-15T20:18:23.000Z",
+            subject: "Your refund for Moon and Back by Hanna Andersson....",
+            amount: {
+              text: "$29.42",
+              number: "29.42"
+            },
+            productName: "Moon and Back by Hanna Andersson...",
+            merchant: "Amazon",
+            satus: "completed"
+          },
+          {
+            date: "2021-03-09T17:37:38.000Z",
+            subject: "Your return of Moon and Back by Hanna Andersson...",
+            amount: {
+              text: "$29.42",
+              number: "29.42"
+            },
+            productName: "Moon and Back by Hanna Andersson...",
+            status: "started",
+            merchant: "Amazon",
+            link:
+              "https://www.amazon.com/spr/returns/cart?orderId=111-0947679-7589059&ref_=E_RRT_status"
+          },
+          {
+            "date": "2021-03-01T22:59:38.000Z",
+            "subject": "Your refund for Rubie's DC Comics Superman....",
+            "amount": {
+              "text": "$29.35",
+              "number": "29.35"
+            },
+            "productName": "Rubie's DC Comics Superman...",
+            "merchant": "Amazon",
+            "satus": "completed"
+          },
+          {
+            "date": "2021-03-01T17:02:32.000Z",
+            "subject": "Your return of Rubie's DC Comics Superman... and 1 other item.",
+            "amount": {
+              "text": "$41.33",
+              "number": "41.33"
+            },
+            "status": "started",
+            "merchant": "Amazon",
+            "link": "https://www.amazon.com/gp/css/order-history/?ref_=E_YourOrder_Page"
+          },
+          {
+            "date": "2021-02-24T04:59:58.000Z",
+            "subject": "Your refund for GRECERELLE Women's Casual Loose....",
+            "amount": {
+              "text": "$31.60",
+              "number": "31.60"
+            },
+            "productName": "GRECERELLE Women's Casual Loose...",
+            "merchant": "Amazon",
+            "satus": "completed"
+          },
+          {
+            "date": "2021-02-24T03:22:10.000Z",
+            "subject": "Your refund for Lveberw Long Nightgown....",
+            "amount": {
+              "text": "$21.78",
+              "number": "21.78"
+            },
+            "productName": "Lveberw Long Nightgown...",
+            "merchant": "Amazon",
+            "satus": "completed"
+          },
+          {
+            "date": "2021-02-24T02:26:28.000Z",
+            "subject": "Your refund for LEGO DC Batman: Batman vs The....",
+            "amount": {
+              "text": "$42.20",
+              "number": "42.20"
+            },
+            "productName": "LEGO DC Batman: Batman vs The...",
+            "merchant": "Amazon",
+            "satus": "completed"
+          },
+          {
+            "date": "2021-02-24T02:24:55.000Z",
+            "subject": "Your refund for GRECERELLE Women's Casual Loose....",
+            "amount": {
+              "text": "$31.60",
+              "number": "31.60"
+            },
+            "productName": "GRECERELLE Women's Casual Loose...",
+            "merchant": "Amazon",
+            "satus": "completed"
+          }
+        ]
+      }
+    });
+  </script>
+</body>
+
+</html>
